@@ -20,7 +20,7 @@ import {
 import "./App.css";
 import { createHttpLink } from "apollo-link-http";
 import { setContext } from "apollo-link-context";
-const httpLink = createHttpLink({ uri: "http://www.secondpage.de/blog/graphql" });
+const httpLink = createHttpLink({ uri: "https://www.secondpage.de/blog/graphql" });
 
 const authLink = setContext((_, { headers }) => {
   return {

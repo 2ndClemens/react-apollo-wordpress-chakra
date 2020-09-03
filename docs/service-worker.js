@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-apollo-wordpress-chakra/precache-manifest.fb0b6be58f286ce4f24b26035c14c64a.js"
+  "/react-apollo-wordpress-chakra/precache-manifest.aa20f22861f31abc568ca747dc21c1e9.js"
 );
 
 self.addEventListener('message', (event) => {

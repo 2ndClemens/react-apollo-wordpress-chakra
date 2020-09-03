@@ -1,7 +1,7 @@
 {
   "name": "apollo-react",
   "version": "0.1.0",
-  "homepage": "https://2ndclemens.github.io/react-apollo-wordpress-chakra/",
+  "homepage": "https://2ndclemens.github.io/react-apollo-wordpress-chakra",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.1.1",

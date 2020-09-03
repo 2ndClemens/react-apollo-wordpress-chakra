@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55257f218cf16c547346eead3030e9d4",
+    "revision": "0be55fa3439e25d03d04176fcf73be72",
     "url": "/react-apollo-wordpress-chakra/index.html"
   },
   {
-    "revision": "5c4a935d83d8d03cc9a7",
+    "revision": "29acccb2bd76106a143c",
     "url": "/react-apollo-wordpress-chakra/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-apollo-wordpress-chakra/static/js/2.173fed88.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c4a935d83d8d03cc9a7",
-    "url": "/react-apollo-wordpress-chakra/static/js/main.5dfc073f.chunk.js"
+    "revision": "29acccb2bd76106a143c",
+    "url": "/react-apollo-wordpress-chakra/static/js/main.893480a7.chunk.js"
   },
   {
     "revision": "346c244f551cadb8437a",
