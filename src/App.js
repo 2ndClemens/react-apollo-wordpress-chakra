@@ -26,7 +26,7 @@ const authLink = setContext((_, { headers }) => {
   return {
     headers: {
       ...headers,
-      // userToken: "token",
+      // userToken: "user-token",
     },
   };
 });
