@@ -1,3 +1,5 @@
+Preview: https://2ndclemens.github.io/react-apollo-wordpress-chakra/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
